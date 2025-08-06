@@ -24,7 +24,7 @@ Starting off with the project, the following action was carried out;
 
   ### Exploratory Data Analysis:
 
-  Key insights from the EDA include:
+  Key insights from the analysis include:
 - Sales Trends Over Time: Identified peak and low periods in sales and orders.
 - Top-Performing Menu Items: Highlighted the most frequently ordered and highest-earning items.
 - Monthly Patterns: Noted increased sales during festive seasons and weekends.
