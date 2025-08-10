@@ -30,3 +30,23 @@ Starting off with the project, the following action was carried out;
 - Monthly Patterns: Noted increased sales during festive seasons and weekends.
 - Payment Preferences: Analyzed customer preference for payment methods; for example, Card payments dominated while Cash usage declined.
 - Order Volume vs. Revenue: Compared order count with total revenue to assess value per order.
+
+  ### Key Performance Indicators
+- Total Revenue Sum of all sales across the dataset
+-  Average Daily Sales: Mean revenue generated per day
+-  Average Order Value: (AOV) Total Sales ÷ Total Number of Orders
+-  Revenue by Payment: Method Share of total revenue by payment channel
+-  Monthly Sales Growth Rate Percent change in revenue month-over-month
+
+  ### Visualization 
+  
+
+  ### Recommendations
+  Based on the analysis, the following was recommended;
+- Promote High-Performing Items: Consider bundling or offering discounts on best-selling items to increase volume
+- Review Low-Performing Menu Items: Either improve, rebrand, or discontinue low-demand items.
+- Optimize Payment Systems: If card and digital payments dominate, ensure smooth and secure processing; consider offering incentives for preferred methods.
+- Plan for Peak Periods: Staff and stock adequately for high-traffic months or seasons to maximize revenue.
+ 
+    
+
