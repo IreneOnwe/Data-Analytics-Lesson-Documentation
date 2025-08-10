@@ -40,6 +40,7 @@ Starting off with the project, the following action was carried out;
 
   ### Visualization 
   
+<img width="1366" height="768" alt="Harvoxx Pgt" src="https://github.com/user-attachments/assets/e3c1406c-34e8-49e5-ac60-3f6a0ca5f5af" />
 
   ### Recommendations
   Based on the analysis, the following was recommended;
